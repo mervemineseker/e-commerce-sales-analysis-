@@ -1,5 +1,7 @@
 # 🧮 E-Commerce Sales Analysis (Python + Pandas + Matplotlib)
 
+![E-Commerce Dashboard Preview] (https://github.com/mervemineseker/e-commerce-sales-analysis-/blob/main/ecommerce_dashboard.png)
+
 ## 📋 Project Overview
 This project analyzes an **e-commerce dataset** to uncover customer behavior, revenue patterns, and product performance using Python.
 The goal is to demonstrate skills in **data cleaning, transformation, and visualization** — essential for data analytics in retail and hospitality sectors.
